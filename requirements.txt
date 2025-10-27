@@ -1,0 +1,28 @@
+# AI Legal Aid Chatbot - Dependencies
+
+# Web Frameworks
+streamlit>=1.28.0
+gradio>=4.0.0
+fastapi>=0.104.0
+uvicorn>=0.24.0
+
+# PDF Processing
+pypdf>=3.17.0
+
+# Vector Database
+chromadb>=0.4.18
+
+# Embeddings
+sentence-transformers>=2.2.2
+
+# LLM and NLP
+transformers>=4.35.0
+torch>=2.1.0
+
+# Web Search
+googlesearch-python>=1.2.3
+requests>=2.31.0
+
+# Additional dependencies
+numpy>=1.24.0
+pandas>=2.0.0
